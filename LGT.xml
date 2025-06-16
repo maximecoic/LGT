@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <rss>
+      <xmlns:itunes>http://www.itunes.com/dtds/podcast-1.0.dtd</xmlns:itunes>
+      <xmlns:media>https://search.yahoo.com/mrss/</xmlns:media>
+      <xmlns:content>http://purl.org/rss/1.0/modules/content/</xmlns:content>
+      <xmlns:atom>http://www.w3.org/2005/Atom</xmlns:atom>
+      <xmlns:googleplay>http://www.google.com/schemas/play-podcasts/1.0</xmlns:googleplay>
+      <xmlns:spotify>http://www.spotify.com/ns/rss</xmlns:spotify>
+      <xmlns:podcast>https://podcastindex.org/namespace/1.0</xmlns:podcast>
+      <xmlns:audmns>https://audmns.com/namespace/1.0</xmlns:audmns>
+      <version>2.0</version>
+      <channel>
+        <title>Les Grosses Têtes</title>
+        <link>https://www.rtl.fr/emission/les-grosses-tetes</link>
+        <description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+        <language>fr</language>
+        <copyright>Copyright RTL</copyright>
+        <lastBuildDate>Mon, 16 Jun 2025 15:19:07 GMT</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2025 09:00:00 GMT</pubDate>
+        <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
+        <generator>Audiomeans (https://www.audiomeans.fr)</generator>
+        <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
+        <itunes:author>RTL</itunes:author>
+        <itunes:summary>Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !
+     
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+        <itunes:owner>
+          <itunes:name>RTL</itunes:name>
+          <itunes:email>podcast.radio@m6.fr</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image>
+          <href>https://static.audiomeans.fr/img/podcast/668d2316-2484-4af0-b473-0960d5d90c69.jpg</href>
+        </itunes:image>
+        <spotify:countryOfOrigin>fr</spotify:countryOfOrigin>
+        <googleplay:author>RTL</googleplay:author>
+        <googleplay:description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</googleplay:description>
+        <googleplay:email>podcast.radio@m6.fr</googleplay:email>
+        <googleplay:explicit>no</googleplay:explicit>
+        <googleplay:block>no</googleplay:block>
+        <googleplay:image>
+          <href>https://static.audiomeans.fr/img/podcast/668d2316-2484-4af0-b473-0960d5d90c69.jpg</href>
+        </googleplay:image>
+        <itunes:keywords>Divertissement,RTL,humour,rire,actualité,blague,insolite,culture,Laurent Ruquier,Les grosses têtes,comédie,débat,jeux</itunes:keywords>
+        <image>
+          <url>https://static.audiomeans.fr/img/podcast/668d2316-2484-4af0-b473-0960d5d90c69.jpg</url>
+          <title>Les Grosses Têtes</title>
+          <link>https://www.rtl.fr/emission/les-grosses-tetes</link>
+        </image>
+        <category>News</category>
+        <category>Comedy</category>
+        <itunes:category>
+          <text>News</text>
+          <itunes:category>
+            <text>Entertainment News</text>
+          </itunes:category>
+        </itunes:category>
+        <itunes:category>
+          <text>Comedy</text>
+        </itunes:category>
+        <googleplay:category>
+          <text>News</text>
+        </googleplay:category>
+        <googleplay:category>
+          <text>Comedy</text>
+        </googleplay:category>
+        <podcast:person>
+          RTL
+          <role>host</role>
+        </podcast:person>
+        <podcast:txt>
+          https://audmns.com/KxAcscK
+          <purpose>smartlink</purpose>
+        </podcast:txt>
+    
+    
+    <item>
+          <title>L'INTÉGRALE - Le Best of du dimanche 15 juin 2025</title>
+          <guid>
+            030f670b-e597-4db8-ab8a-820ff2abfcbf
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 15 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 15 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Sun, 15 Jun 2025 16:34:16 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/030f670b-e597-4db8-ab8a-820ff2abfcbf.mp3?_=1750059199</url>
+            <length>99327831</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 15 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 15 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 15 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:43:27</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/7f445731-8718-457c-8f46-549b47739352.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/7f445731-8718-457c-8f46-549b47739352.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/ubLXURX
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Le Best of du samedi 14 juin 2025</title>
+          <guid>
+            23c6b5f1-74bd-4fa5-8712-676c84007c34
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 14 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 14 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Sat, 14 Jun 2025 16:30:52 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/23c6b5f1-74bd-4fa5-8712-676c84007c34.mp3?_=1750059188</url>
+            <length>89097018</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 14 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 14 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 14 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+    
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:32:48</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/d18ad494-be0a-48a9-9607-ef3788193596.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/d18ad494-be0a-48a9-9607-ef3788193596.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/lUfPFQS
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Émission du vendredi 13 juin 2025</title>
+          <guid>
+            6d70da71-934a-48b5-9f95-a5d977c69e0b
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Avec Christine Bravo, Christophe Beaugrand, Adil Rami, Karina Marimon, François Rollin et Paul El Kharrat.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Avec Christine Bravo, Christophe Beaugrand, Adil Rami, Karina Marimon, François Rollin et Paul El Kharrat.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Fri, 13 Jun 2025 16:02:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/6d70da71-934a-48b5-9f95-a5d977c69e0b.mp3?_=1749829989</url>
+            <length>98771559</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Avec Christine Bravo, Christophe Beaugrand, Adil Rami, Karina Marimon, François Rollin et Paul El Kharrat.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Avec Christine Bravo, Christophe Beaugrand, Adil Rami, Karina Marimon, François Rollin et Paul El Kharrat.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Avec Christine Bravo, Christophe Beaugrand, Adil Rami, Karina Marimon, François Rollin et Paul El Kharrat.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:42:53</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/660123f7-d7e3-4d13-8dcd-3c5d335da42a.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/660123f7-d7e3-4d13-8dcd-3c5d335da42a.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/hzwClwQ
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Émission du jeudi 12 juin 2025</title>
+          <guid>
+            fc008bac-d938-4b50-aba9-d3d3ec325e34
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Avec François Rollin, Florian Gazan, Caroline Diament, Yoann Riou, Chantal Ladesou et Az. 
+    
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Avec François Rollin, Florian Gazan, Caroline Diament, Yoann Riou, Chantal Ladesou et Az. 
+    
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Thu, 12 Jun 2025 16:00:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/fc008bac-d938-4b50-aba9-d3d3ec325e34.mp3?_=1749714794</url>
+            <length>100847108</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Avec François Rollin, Florian Gazan, Caroline Diament, Yoann Riou, Chantal Ladesou et Az. 
+    
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Avec François Rollin, Florian Gazan, Caroline Diament, Yoann Riou, Chantal Ladesou et Az. 
+    
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Avec François Rollin, Florian Gazan, Caroline Diament, Yoann Riou, Chantal Ladesou et Az. 
+    
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:45:02</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/7d062f7c-82d2-46b0-a62b-c94ac46cc8d0.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/7d062f7c-82d2-46b0-a62b-c94ac46cc8d0.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/nelUDda
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Émission du mercredi 11 juin 2025</title>
+          <guid>
+            56b40df3-5060-4a96-b60d-2ef0946f5ec6
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Avec Valérie Mairesse, Gérard Jugnot, François Berléand, Constance, Richard Orlinski et Adil Rami.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Avec Valérie Mairesse, Gérard Jugnot, François Berléand, Constance, Richard Orlinski et Adil Rami.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Wed, 11 Jun 2025 16:02:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/56b40df3-5060-4a96-b60d-2ef0946f5ec6.mp3?_=1749653289</url>
+            <length>100023749</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Avec Valérie Mairesse, Gérard Jugnot, François Berléand, Constance, Richard Orlinski et Adil Rami.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Avec Valérie Mairesse, Gérard Jugnot, François Berléand, Constance, Richard Orlinski et Adil Rami.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Avec Valérie Mairesse, Gérard Jugnot, François Berléand, Constance, Richard Orlinski et Adil Rami.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.  
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:44:11</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/97fe7a7e-f9b9-41e1-8656-7b82efe28dac.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/97fe7a7e-f9b9-41e1-8656-7b82efe28dac.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/YRuHEBz
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Émission du mardi 10 juin 2025</title>
+          <guid>
+            1c146994-e8f4-4f67-8ea0-18b33a94766a
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Avec Jeanfi Janssens, Christophe Barbier, Karine Le Marchand, Isabelle Mergault, Paul El Kharrat et Richard Orlinski.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.     &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Avec Jeanfi Janssens, Christophe Barbier, Karine Le Marchand, Isabelle Mergault, Paul El Kharrat et Richard Orlinski.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.     &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/1c146994-e8f4-4f67-8ea0-18b33a94766a.mp3?_=1749565390</url>
+            <length>99247630</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Avec Jeanfi Janssens, Christophe Barbier, Karine Le Marchand, Isabelle Mergault, Paul El Kharrat et Richard Orlinski.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.     
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Avec Jeanfi Janssens, Christophe Barbier, Karine Le Marchand, Isabelle Mergault, Paul El Kharrat et Richard Orlinski.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.     
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Avec Jeanfi Janssens, Christophe Barbier, Karine Le Marchand, Isabelle Mergault, Paul El Kharrat et Richard Orlinski.
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.     
+     Distribué par Audiomeans. Visitez...</itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:43:22</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/423b6ed9-e530-4c4b-987a-5753b57cc002.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/423b6ed9-e530-4c4b-987a-5753b57cc002.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/SHBXGbv
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Le Best of du lundi 9 juin 2025</title>
+          <guid>
+            6e44d087-b4bc-4c36-8024-fdd97d60a89f
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 9 juin 2025. &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 9 juin 2025. &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Mon, 09 Jun 2025 16:00:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/6e44d087-b4bc-4c36-8024-fdd97d60a89f.mp3?_=1749223691</url>
+            <length>72557567</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 9 juin 2025. &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 9 juin 2025. &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 9 juin 2025. &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:15:34</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/18d7ee03-a5d7-4778-aff5-4606e3f67874.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/18d7ee03-a5d7-4778-aff5-4606e3f67874.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/MKkkCFm
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Le Best of du dimanche 8 juin 2025</title>
+          <guid>
+            af643cde-02d8-44af-b005-26199d58a811
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 8 juin 2025. 
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 8 juin 2025. 
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Sun, 08 Jun 2025 16:31:59 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/af643cde-02d8-44af-b005-26199d58a811.mp3?_=1749464002</url>
+            <length>89275488</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 8 juin 2025. 
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 8 juin 2025. 
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 8 juin 2025. 
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:32:59</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/0d2d513c-5872-47af-ba6d-1af9a852fea7.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/0d2d513c-5872-47af-ba6d-1af9a852fea7.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/DdLDTNm
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Le Best of du samedi 7 juin 2025</title>
+          <guid>
+            7d5f8679-d40d-4a3f-b46d-cb4a324a8c28
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 7 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 7 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Sat, 07 Jun 2025 16:29:56 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/7d5f8679-d40d-4a3f-b46d-cb4a324a8c28.mp3?_=1749463989</url>
+            <length>86958317</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 7 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 7 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 7 juin 2025. 
+    
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+    
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:30:34</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/9a55cc7a-fdbc-4da3-91b0-519f9cc6e27c.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/9a55cc7a-fdbc-4da3-91b0-519f9cc6e27c.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/KufUusO
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+        </item>
+        <item>
+          <title>L'INTÉGRALE - Émission du vendredi 6 juin 2025</title>
+          <guid>
+            94e87180-23ff-40dc-a98d-e368004977b8
+            <isPermaLink>false</isPermaLink>
+          </guid>
+          <description>Avec Adil Rami, AZ, Caroline Diament, Karine Le Marchand, Vincent Cespédès et Joyce Jonathan.
+    
+    &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+          <content:encoded>Avec Adil Rami, AZ, Caroline Diament, Karine Le Marchand, Vincent Cespédès et Joyce Jonathan.
+    
+    &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</content:encoded>
+          <pubDate>Fri, 06 Jun 2025 16:00:00 GMT</pubDate>
+          <enclosure>
+            <url>https://audio.audiomeans.fr/file/TzfmmNyhrU/94e87180-23ff-40dc-a98d-e368004977b8.mp3?_=1749218295</url>
+            <length>98899013</length>
+            <type>audio/mpeg</type>
+          </enclosure>
+          <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+          <itunes:summary>Avec Adil Rami, AZ, Caroline Diament, Karine Le Marchand, Vincent Cespédès et Joyce Jonathan.
+    
+    &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </itunes:summary>
+          <googleplay:description>Avec Adil Rami, AZ, Caroline Diament, Karine Le Marchand, Vincent Cespédès et Joyce Jonathan.
+    
+    &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+     </googleplay:description>
+          <itunes:author>Laurent Ruquier</itunes:author>
+          <author>Laurent Ruquier</author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Avec Adil Rami, AZ, Caroline Diament, Karine Le Marchand, Vincent Cespédès et Joyce Jonathan.
+    
+    &#xD;
+    Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+     Distribué par Audiomeans. Visitez </itunes:subtitle>
+          <itunes:block>no</itunes:block>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>01:43:01</itunes:duration>
+          <itunes:image>
+            <href>https://static.audiomeans.fr/img/episode/4d08dd0d-3b26-4e63-bf80-f85bf8db6d2f.jpg</href>
+          </itunes:image>
+          <googleplay:image>
+            <href>https://static.audiomeans.fr/img/episode/4d08dd0d-3b26-4e63-bf80-f85bf8db6d2f.jpg</href>
+          </googleplay:image>
+          <podcast:person>
+            Laurent Ruquier
+            <role>host</role>
+          </podcast:person>
+          <podcast:txt>
+            https://audmns.com/duVgWtL
+            <purpose>smartlink</purpose>
+          </podcast:txt>
+          <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+        </item>
+    
+    
+</channel></rss>
